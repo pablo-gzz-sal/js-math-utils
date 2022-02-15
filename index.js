@@ -1,5 +1,5 @@
-function showNumber(props) {
-    console.log(`El numero mostrado es ${props}`);
+function showNumber(x, y) {
+    console.log(`La suma es ${x + y}`);
 }
 
-showNumber(3)
+showNumber(3, 7)
