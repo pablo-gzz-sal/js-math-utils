@@ -1,5 +1,7 @@
-function showNumber(x, y) {
-    console.log(`La suma es ${x + y}`);
+function showNumber(x, y) { 
+
+    let sum = x + y
+    console.log(`sum`);
 }
 
 showNumber(3, 7)
